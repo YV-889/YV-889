@@ -1,3 +1,4 @@
+![Wave Animation](https://waveify.onrender.com/api/wave?color=%23007CF0&height=150&speed=4&width=1200&amplitude=20&frequency=2&waveType=default)
 # 💫 About Me:
 ### 🎓 Academic Showcase<br>
 This profile functions as a public repository for my university coursework. All repositories here consist of assignments, practical labs, and coding exercises completed during my college years.
