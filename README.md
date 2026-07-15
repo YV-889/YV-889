@@ -1,5 +1,6 @@
 # 💫 About Me:
-### 🎓 Academic Showcase<br><br>This profile functions as a public repository for my university coursework. All repositories here consist of assignments, practical labs, and coding exercises completed during my college years.
+### 🎓 Academic Showcase<br><br>
+This profile functions as a public repository for my university coursework. All repositories here consist of assignments, practical labs, and coding exercises completed during my college years.
 
 
 ## 🌐 Socials:
